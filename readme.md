@@ -18,7 +18,7 @@ El stack tecnológico seleccionado es el siguiente:
 
 ## Clonar Repositorio: 
 
-`git clone https://github.com/Jdmonte4269AP/pre-entrega.git`
+`git clone https://github.com/Caroleme/Pre_Entrega_Proyecto_Automatizacion.git`
 
 
 ## Instalacion dependencias
