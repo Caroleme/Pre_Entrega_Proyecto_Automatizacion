@@ -39,7 +39,7 @@ py -m pytest -v test\test_inventory.py
 
 - Test login: Valida el ingreso al sitio web Sauce Demo con credenciales válidas
 
-- Test inventory: 
+- Test inventory: Este test verifica que el titulo de la página sea el correctro (Swag Labs), que existan productos visibles en la página y elementos importantes de la interfaz, como menu, filtro y carrito.
 
 ## Generar Reporte HTML:
 
